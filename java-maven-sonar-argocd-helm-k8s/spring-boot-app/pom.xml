@@ -73,7 +73,7 @@
                 <version>3.0.2</version>
             </plugin>           
         </plugins>
-        <finalName>somename</finalName>
+        
         <testResources>
             <testResource>
             <directory>src/test/resources</directory>
